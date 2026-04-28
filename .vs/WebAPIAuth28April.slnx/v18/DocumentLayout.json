@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\webapiauth28april.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\webapiauth28april.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|c:\\users\\ludvi\\desktop\\webapiauth28april\\webapiauth28april\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C655DE-0A97-4FB5-B998-82FB9CE86B1B}|WebAPIAuth28April\\WebAPIAuth28April.csproj|solutionrelative:webapiauth28april\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Services\\ITokenService.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:27:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Program.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Program.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:52:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\appsettings.json",
+              "RelativeToolTip": "WebAPIAuth28April\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T08:23:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Services\\TokenService.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:43:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:43:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:08:38.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPIAuth28April",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\WebAPIAuth28April.csproj",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\WebAPIAuth28April.csproj",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\WebAPIAuth28April.csproj",
+              "RelativeToolTip": "WebAPIAuth28April\\WebAPIAuth28April.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T08:05:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:52:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPIAuth28April\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\WebAPIAuth28April\\WebAPIAuth28April\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPIAuth28April\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwD8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:43:34.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
